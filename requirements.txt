@@ -5,3 +5,4 @@ torchvision
 langchain==0.1.9
 python-dotenv==1.0.1
 gtts==2.5.1
+audio_recorder_streamlit==0.0.8
