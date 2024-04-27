@@ -7,4 +7,4 @@ python-dotenv==1.0.1
 gtts==2.5.1
 audio_recorder_streamlit==0.0.8
 streamlit-float==0.3.2
-tf-keras==2.16.1
+tf-keras==2.16.0
