@@ -10,3 +10,5 @@ tokenizers==0.15.2
 transformers==4.38.1
 stt==1.4.0
 tts==0.22.0
+torch
+torchvision
