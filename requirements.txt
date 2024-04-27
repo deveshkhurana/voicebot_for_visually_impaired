@@ -8,5 +8,3 @@ streamlit==1.31.1
 streamlit-float==0.3.2
 tokenizers==0.15.2
 transformers==4.38.1
-torch
-torchvision
